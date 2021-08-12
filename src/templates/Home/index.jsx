@@ -6,7 +6,7 @@ function Home() {
   return (
     <div className="App">
       <Styled.Container>
-        <Heading>Hello</Heading>
+        <Heading>Menu</Heading>
       </Styled.Container>
     </div>
   );
